@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b11d351-94e8-416b-8ed1-82a9758b5723" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R2KGwNlMfZgMj1ZIpLLHEIQYG8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568835018411" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Seleneum_2019 Pro01" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\InterviewWebAutomationFramework\Generic\browser-driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.G:/SOFTWARE ENGINEERING/PROJECTS/IdeaProjects/PNT/InterviewWebAutomationFramework/Device42/src/test/resources/Device42TestRunner.xml">
+    <configuration name="CommonAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="common" />
+      <option name="MAIN_CLASS_NAME" value="common.CommonAPI" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G:/SOFTWARE ENGINEERING/PROJECTS/IdeaProjects/PNT/InterviewWebAutomationFramework/Device42/src/test/resources/Device42TestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Device42" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Device42/src/test/resources/Device42TestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Device42" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.TestHomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.testCreateABuilding" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Device42" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.TestHomePage" />
+      <option name="METHOD_NAME" value="testCreateABuilding" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.testToSeeALiveWebDemonstration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Device42" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.TestHomePage" />
+      <option name="METHOD_NAME" value="testToSeeALiveWebDemonstration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.G:/SOFTWARE ENGINEERING/PROJECTS/IdeaProjects/PNT/InterviewWebAutomationFramework/Device42/src/test/resources/Device42TestRunner.xml" />
+        <item itemvalue="TestNG.TestHomePage.testCreateABuilding" />
+        <item itemvalue="TestNG.TestHomePage" />
+        <item itemvalue="TestNG.TestHomePage.testToSeeALiveWebDemonstration" />
+        <item itemvalue="TestNG.CommonAPI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b11d351-94e8-416b-8ed1-82a9758b5723" name="Default Changelist" comment="" />
+      <created>1568827275408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568827275408</updated>
+      <workItem from="1568827284567" duration="6850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6850000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
